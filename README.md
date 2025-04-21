@@ -1,4 +1,6 @@
 **Pneumonia Detection from Chest X-Rays using RPA methology**
+
+
 Automated Diagnosis System with CNN, VGG19, and CheXNet Transfer Learning
 Project Overview
 A deep learning pipeline for detecting pneumonia from chest X-ray images, implementing:
@@ -33,9 +35,4 @@ CheXNet	91.4%	0.89	0.93
 Optimization Strategies
 Learning Rate Scheduling:
 
-python
-reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.2, patience=3)
-Early Stopping:
 
-python
-early_stop = EarlyStopping(monitor='val_accuracy', patience=5, restore_best_weights=True
