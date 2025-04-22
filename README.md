@@ -1,23 +1,53 @@
-**Pneumonia Detection from Chest X-Rays using RPA methology**
+# 🩺 Pneumonia Detection from Chest X-Rays using Robotic Process Automation (RPA) 
 
+An advanced deep learning pipeline designed to **automate the diagnosis of pneumonia** from chest X-ray images using state-of-the-art computer vision techniques.
 
-Automated Diagnosis System with CNN, VGG19, and CheXNet Transfer Learning
-Project Overview
-A deep learning pipeline for detecting pneumonia from chest X-ray images, implementing:
-✔ Multi-model architecture comparison (CNN, VGG19, CheXNet, YOLO)
-✔ Advanced hyperparameter optimization (learning rate, batch size, early stopping)
-✔ Class imbalance mitigation through data augmentation and sampling
-✔ Model persistence with weight saving/loading for iterative training
+---
 
-Technical Implementation
-Data Preprocessing
-Exploratory Data Analysis: Visualized class distributions and image quality
+## 🚀 Project Highlights
 
-Missing Value Handling: Implemented robust data imputation strategies
+This project explores multiple deep learning architectures and optimization strategies for accurate medical image classification, including:
 
-Augmentation Pipeline:
+- ✅ Multi-model comparison: `CNN`, `VGG19`, `CheXNet`, and `YOLO`
+- 🛠️ Transfer learning with pre-trained models
+- 📊 Data preprocessing, augmentation, and imbalance handling
+- 💾 Model weight saving & loading for efficient retraining
+- 🔍 Exploratory data analysis and visual insights
 
-python
+---
+
+## 🧠 Technical Stack
+
+- **Programming Language:** Python
+- **Libraries/Frameworks:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+- **Models Used:** Custom CNN, VGG19, CheXNet, YOLOv3
+
+---
+
+## 📂 Dataset Overview
+
+- Chest X-ray image dataset with labeled samples:
+  - `Pneumonia` vs `Normal`
+- Images preprocessed and resized to a uniform shape
+- Missing values handled using imputation strategies
+- Balanced dataset via **data augmentation**
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+- Visualized class distributions to understand imbalance
+- Analyzed image quality, pixel intensity, and structure
+- Identified data augmentation requirements
+
+---
+
+## 🧪 Augmentation Pipeline
+
+Using Keras `ImageDataGenerator`:
+
+```python
 train_datagen = ImageDataGenerator(
     rotation_range=15,
     width_shift_range=0.1,
@@ -27,12 +57,3 @@ train_datagen = ImageDataGenerator(
     horizontal_flip=True,
     fill_mode='nearest'
 )
-Model Architectures
-Model	Val Accuracy	Precision	Recall
-Baseline CNN	82.3%	0.79	0.85
-VGG19-FT	89.1%	0.87	0.91
-CheXNet	91.4%	0.89	0.93
-Optimization Strategies
-Learning Rate Scheduling:
-
-
