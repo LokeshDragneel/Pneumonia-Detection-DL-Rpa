@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,Diagnosis,VisitDate,Treatment,BloodPressure,CholesterolLevel,InsuranceStatus
+101,Alice Smith,29,F,Diabetes,2024-11-12,Insulin,117/85,274,Insured
+102,Bob Johnson,45,M,Hypertension,2024-12-05,Beta Blockers,118/63,248,Uninsured
+103,Charlie Lee,34,M,Asthma,2025-01-10,Inhaler,117/61,165,Insured
+104,Dana White,50,F,Obesity,2025-02-18,Diet Plan,136/65,189,Partially Insured
+105,Eli Brown,42,M,High Cholesterol,2025-03-01,Statins,104/81,186,Uninsured
+106,Patient_106,52,M,High Cholesterol,2024-03-25,Insulin,107/75,265,Partially Insured
+107,Patient_107,33,M,Asthma,2025-03-09,Beta Blockers,104/64,247,Insured
+108,Patient_108,73,M,Hypertension,2024-09-11,Statins,107/63,162,Insured
+109,Patient_109,55,F,Arthritis,2025-01-22,Statins,118/60,171,Uninsured
+110,Patient_110,25,F,Asthma,2024-10-01,Beta Blockers,122/72,217,Partially Insured
+111,Patient_111,61,F,Hypertension,2025-03-25,Statins,132/65,203,Uninsured
+112,Patient_112,73,M,Hypertension,2024-06-25,Insulin,102/70,240,Insured
+113,Patient_113,38,F,Diabetes,2024-08-29,Beta Blockers,103/88,246,Uninsured
+114,Patient_114,71,F,Diabetes,2025-02-11,Inhaler,118/81,200,Uninsured
+115,Patient_115,27,F,High Cholesterol,2024-07-17,Beta Blockers,132/72,279,Insured
+116,Patient_116,21,M,Arthritis,2024-02-27,Beta Blockers,127/78,203,Insured
+117,Patient_117,25,F,Obesity,2024-07-09,Diet Plan,122/89,168,Insured
+118,Patient_118,39,F,Hypertension,2024-03-11,Statins,109/71,271,Insured
+119,Patient_119,29,F,Hypertension,2024-03-08,Insulin,126/73,247,Partially Insured
+120,Patient_120,70,F,Arthritis,2024-03-23,Inhaler,107/83,233,Partially Insured
+121,Patient_121,50,M,High Cholesterol,2025-02-12,Pain Relief,108/65,240,Uninsured
+122,Patient_122,53,M,High Cholesterol,2024-12-03,Pain Relief,100/62,261,Partially Insured
+123,Patient_123,55,F,Obesity,2024-03-20,Beta Blockers,100/71,155,Partially Insured
+124,Patient_124,50,F,High Cholesterol,2024-12-03,Inhaler,136/78,212,Uninsured
+125,Patient_125,30,F,Obesity,2024-09-30,Inhaler,115/89,268,Partially Insured
+126,Patient_126,30,M,Hypertension,2024-05-07,Beta Blockers,116/61,244,Partially Insured
+127,Patient_127,53,M,Asthma,2024-10-21,Pain Relief,131/74,271,Insured
+128,Patient_128,78,F,Asthma,2024-01-30,Diet Plan,107/65,192,Insured
+129,Patient_129,42,F,High Cholesterol,2024-04-01,Diet Plan,107/71,155,Uninsured
+130,Patient_130,58,F,Hypertension,2024-05-10,Insulin,108/60,181,Partially Insured
+131,Patient_131,52,M,Hypertension,2024-01-30,Pain Relief,133/66,161,Partially Insured
+132,Patient_132,36,M,Diabetes,2024-08-06,Pain Relief,132/78,166,Insured
+133,Patient_133,70,F,Obesity,2024-04-17,Pain Relief,134/78,184,Partially Insured
+134,Patient_134,56,F,Asthma,2024-10-23,Insulin,106/65,246,Partially Insured
+135,Patient_135,62,M,High Cholesterol,2024-07-28,Inhaler,129/66,270,Insured
+136,Patient_136,64,F,High Cholesterol,2024-03-27,Diet Plan,123/90,204,Uninsured
+137,Patient_137,52,M,Obesity,2024-01-01,Insulin,114/68,216,Uninsured
+138,Patient_138,78,M,Hypertension,2024-07-19,Inhaler,115/80,280,Uninsured
+139,Patient_139,26,F,Diabetes,2024-04-02,Insulin,110/86,270,Partially Insured
+140,Patient_140,79,F,High Cholesterol,2024-03-09,Beta Blockers,127/83,278,Insured
+141,Patient_141,62,M,Asthma,2024-01-16,Statins,116/86,206,Insured
+142,Patient_142,44,F,Hypertension,2025-02-12,Statins,129/79,256,Insured
+143,Patient_143,65,M,Arthritis,2025-02-08,Inhaler,114/65,169,Insured
+144,Patient_144,34,M,Arthritis,2024-10-16,Beta Blockers,110/84,238,Uninsured
+145,Patient_145,39,M,Obesity,2025-01-05,Diet Plan,108/89,254,Uninsured
+146,Patient_146,54,M,Diabetes,2024-08-07,Insulin,126/82,254,Insured
+147,Patient_147,62,M,Obesity,2024-09-29,Statins,102/85,191,Partially Insured
+148,Patient_148,22,M,Diabetes,2024-03-21,Diet Plan,123/80,227,Partially Insured
+149,Patient_149,22,M,Arthritis,2024-01-22,Insulin,113/66,209,Uninsured
+150,Patient_150,59,M,High Cholesterol,2024-02-15,Diet Plan,137/67,170,Partially Insured
+151,Patient_151,80,F,High Cholesterol,2024-10-29,Beta Blockers,105/79,272,Uninsured
+152,Patient_152,69,M,Asthma,2024-07-25,Pain Relief,114/77,177,Partially Insured
+153,Patient_153,29,M,Obesity,2024-08-21,Beta Blockers,101/69,162,Insured
+154,Patient_154,62,M,Obesity,2024-05-20,Statins,134/89,196,Uninsured
+155,Patient_155,39,M,Diabetes,2024-03-11,Statins,103/77,168,Partially Insured
+156,Patient_156,78,M,High Cholesterol,2024-09-14,Beta Blockers,112/73,210,Partially Insured
+157,Patient_157,30,F,Asthma,2024-01-23,Inhaler,130/76,205,Partially Insured
+158,Patient_158,72,F,Hypertension,2024-09-23,Statins,122/77,278,Uninsured
+159,Patient_159,53,M,High Cholesterol,2024-10-22,Statins,118/65,196,Partially Insured
+160,Patient_160,70,M,Obesity,2024-03-01,Inhaler,111/68,235,Uninsured
+161,Patient_161,64,F,Arthritis,2025-01-12,Beta Blockers,126/68,276,Uninsured
+162,Patient_162,79,M,Asthma,2024-07-09,Insulin,137/66,163,Insured
+163,Patient_163,58,F,High Cholesterol,2024-12-01,Insulin,126/83,181,Uninsured
+164,Patient_164,70,M,Obesity,2024-04-12,Diet Plan,111/82,216,Insured
+165,Patient_165,75,M,Hypertension,2024-04-11,Beta Blockers,108/73,182,Uninsured
+166,Patient_166,60,F,Obesity,2024-07-20,Diet Plan,112/90,268,Uninsured
+167,Patient_167,55,M,Obesity,2025-01-04,Beta Blockers,120/87,272,Uninsured
+168,Patient_168,40,M,High Cholesterol,2024-04-13,Insulin,122/62,178,Insured
+169,Patient_169,37,M,Hypertension,2024-08-28,Inhaler,140/87,252,Partially Insured
+170,Patient_170,30,M,Diabetes,2024-01-13,Pain Relief,117/81,269,Uninsured
+171,Patient_171,30,M,Arthritis,2024-10-15,Inhaler,119/66,260,Partially Insured
+172,Patient_172,76,F,Asthma,2024-02-09,Diet Plan,135/79,226,Insured
+173,Patient_173,61,F,Obesity,2025-01-02,Pain Relief,129/85,273,Uninsured
+174,Patient_174,66,F,Asthma,2024-06-16,Beta Blockers,107/60,272,Insured
+175,Patient_175,78,M,Arthritis,2025-03-16,Diet Plan,109/72,256,Insured
+176,Patient_176,61,F,Obesity,2024-08-30,Diet Plan,119/67,177,Partially Insured
+177,Patient_177,63,F,Arthritis,2024-11-04,Diet Plan,106/74,278,Partially Insured
+178,Patient_178,35,M,Arthritis,2024-11-14,Beta Blockers,120/86,175,Uninsured
+179,Patient_179,43,F,Diabetes,2025-01-15,Insulin,101/60,277,Uninsured
+180,Patient_180,64,M,High Cholesterol,2024-12-26,Pain Relief,127/74,183,Insured
+181,Patient_181,40,F,Diabetes,2024-12-14,Pain Relief,120/69,242,Insured
+182,Patient_182,57,F,Obesity,2024-10-02,Inhaler,105/73,240,Partially Insured
+183,Patient_183,63,F,High Cholesterol,2024-05-06,Diet Plan,128/86,239,Uninsured
+184,Patient_184,29,M,Asthma,2024-05-27,Diet Plan,103/61,260,Uninsured
+185,Patient_185,19,F,Diabetes,2024-04-19,Beta Blockers,128/68,202,Partially Insured
+186,Patient_186,72,M,Asthma,2024-04-21,Beta Blockers,140/62,227,Partially Insured
+187,Patient_187,52,F,Asthma,2024-02-27,Inhaler,135/81,171,Uninsured
+188,Patient_188,42,F,High Cholesterol,2024-12-13,Beta Blockers,136/76,166,Insured
+189,Patient_189,75,M,Asthma,2024-12-02,Insulin,123/84,248,Partially Insured
+190,Patient_190,36,F,High Cholesterol,2024-09-26,Inhaler,102/86,156,Uninsured
+191,Patient_191,75,M,Arthritis,2024-08-25,Inhaler,107/78,256,Partially Insured
+192,Patient_192,68,M,Diabetes,2024-11-24,Inhaler,132/76,165,Insured
+193,Patient_193,19,F,Diabetes,2025-03-04,Statins,112/78,218,Uninsured
+194,Patient_194,31,F,Hypertension,2024-03-16,Inhaler,125/62,272,Uninsured
+195,Patient_195,29,M,High Cholesterol,2024-04-01,Diet Plan,119/76,208,Partially Insured
+196,Patient_196,51,F,Arthritis,2024-02-26,Diet Plan,113/71,251,Partially Insured
+197,Patient_197,29,M,Obesity,2024-07-28,Insulin,137/62,232,Partially Insured
+198,Patient_198,44,M,Obesity,2025-02-06,Diet Plan,137/75,165,Uninsured
+199,Patient_199,53,M,Diabetes,2024-09-27,Insulin,137/73,217,Insured
+200,Patient_200,45,F,Obesity,2024-05-24,Diet Plan,119/68,238,Insured
